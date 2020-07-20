@@ -1,0 +1,942 @@
+{
+    "lens_id": "",
+    "document_id": "4ThCGw67OQY-9SD1fl4_",
+    "original_document_id": "4ThCGw67OQY-9SD1fl4_",
+    "version": "24",
+    "lastChanged": "1595252297827",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "AkuAku",
+                        "AkuAku"
+                    ],
+                    [
+                        "AkuAku",
+                        "Animations"
+                    ],
+                    [
+                        "AkuAku",
+                        "Materials",
+                        "lambert1"
+                    ],
+                    [
+                        "AkuAku",
+                        "Meshes"
+                    ],
+                    [
+                        "AkuAku",
+                        "Meshes",
+                        "polySurface9"
+                    ],
+                    [
+                        "AkuAku 2"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "IconSource"
+                    ],
+                    [
+                        "Simple PBR"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "05033ebc533267660457eac6119a469b",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Aku Aku",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1595184226116878:3709"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1595184220314197:2692",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1595184220334876:2706",
+                    "name": "Files\/File10",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1595184220424988:2786",
+                    "name": "AkuAku",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1595184262109501:8329",
+                    "name": "Files\/File15.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1595184266363517:8981",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1595184266462624:9031",
+                    "name": "Files\/File19.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1595184266521532:9047",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1595252246644690:116855",
+                    "name": "Files\/File27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1595184220503162:2822",
+                "4": "1595184220504042:2828",
+                "5": "1595184226116537:3708",
+                "6": "1595184226116878:3709",
+                "7": "1595184226119806:3729"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.oprfb"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.fbx"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.oprfb"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "AkuAku.fbx"
+                    },
+                    {
+                        "k": "969",
+                        "v": "..\/AdditionalFiles\/AkuAku\/Materials"
+                    },
+                    {
+                        "k": "970",
+                        "v": "..\/AdditionalFiles\/AkuAku\/Materials\/lambert1.lsmat"
+                    },
+                    {
+                        "k": "971",
+                        "v": "AkuAku 2.png"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Simple PBR.lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "IconSource.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "3fbea2668b9ba3e8a18bd90176fba914"
+                    },
+                    {
+                        "k": "970",
+                        "v": "81dba6f7ab2285c6409583936c7be178"
+                    },
+                    {
+                        "k": "971",
+                        "v": "460332f3cab669b9d501c8f03511e801"
+                    },
+                    {
+                        "k": "973",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "974",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "975",
+                        "v": "baeb712dd78533807273da1f896ff759"
+                    },
+                    {
+                        "k": "976",
+                        "v": "d7c99392a5ecd67be33a61b665a47d12"
+                    },
+                    {
+                        "k": "977",
+                        "v": "d2bad9646e86bde0faecb8afd219342a"
+                    },
+                    {
+                        "k": "978",
+                        "v": "c5ba1a33d70bd407e06a6a9b9a5aa18b"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-07-20T06:38:01",
+                        "name": "Public",
+                        "hash": "284b5d63d4bdd81b77549d7c374c7871",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-22T18:16:46",
+                                "name": "AkuAku.fbx",
+                                "hash": "3fbea2668b9ba3e8a18bd90176fba914",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-19T11:45:42",
+                                "name": "Simple PBR.lsmat",
+                                "hash": "baeb712dd78533807273da1f896ff759",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-19T11:45:08",
+                                "name": "Textures",
+                                "hash": "360d3ab32f92eb6f1b1f20535fce7fb6",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-19T11:44:26",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-19T11:44:26",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-19T11:44:26",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-22T18:16:48",
+                                "name": "AkuAku 2.png",
+                                "hash": "460332f3cab669b9d501c8f03511e801",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-07T20:02:19",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-20T06:37:02",
+                                "name": "IconSource.png",
+                                "hash": "c5ba1a33d70bd407e06a6a9b9a5aa18b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-07T20:01:28",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "AkuAku",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "13",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "\/Users\/ejwessel\/Downloads\/aku-aku-fan-art\/source\/AkuAku.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "lambert1",
+                                    "v": "1595184220334876:2706"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "polySurface9",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "1",
+                                        "uid": "1595184220314197:2692",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-FUTewa\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "lambert1",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "uid": "1595184220334876:2706",
+                                        "fileId": "10",
+                                        "originalId": "11",
+                                        "publicId": "970",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AkuAku",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "14",
+                                "dependency": "1",
+                                "uid": "1595184220424988:2786",
+                                "fileId": "12",
+                                "originalId": "14",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "AkuAku 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1595184262109501:8329",
+                        "fileId": "15",
+                        "originalId": "16",
+                        "publicId": "971",
+                        "source": "\/Users\/ejwessel\/Downloads\/aku-aku-fan-art\/textures\/AkuAku.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "972",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1595184266462624:9031",
+                                "fileId": "19",
+                                "originalId": "20",
+                                "publicId": "973",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-FUTewa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1595184266521532:9047",
+                                "fileId": "21",
+                                "originalId": "22",
+                                "publicId": "974",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-FUTewa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Simple PBR",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1595184266363517:8981",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "975",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "IconSource",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1595252246644690:116855",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "978",
+                        "source": "\/Users\/ejwessel\/Downloads\/AKUAKU.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1595252246644690:116855",
+                        "path_list": [
+                            "AKUAKU"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1595184220503162:2822",
+                        "v": {
+                            "prefab": "1595184220424988:2786",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1595184220364110:2721",
+                                    "v": "1595184220503162:2822"
+                                },
+                                {
+                                    "k": "1595184220364446:2723",
+                                    "v": "1595184220504042:2828"
+                                },
+                                {
+                                    "k": "1595184220364624:2725",
+                                    "v": "1595184220504394:2830"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1595184220424988:2786",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1595184220364110:2721"
+                        },
+                        {
+                            "k": [
+                                "polySurface9"
+                            ],
+                            "v": "1595184220364446:2723"
+                        },
+                        {
+                            "k": [
+                                "polySurface9",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1595184220364624:2725"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
