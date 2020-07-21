@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "4efa1873-85e2-4660-8c21-4d593ca26370",
     "document_id": "4ThCGw67OQY-9SD1fl4_",
     "original_document_id": "4ThCGw67OQY-9SD1fl4_",
     "version": "24",
-    "lastChanged": "1595252297827",
+    "lastChanged": "1595302661534",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -53,6 +53,9 @@
                     ],
                     [
                         "AkuAku 2"
+                    ],
+                    [
+                        "CreditAlpha"
                     ],
                     [
                         "Echopark"
@@ -128,9 +131,6 @@
                     "1595184226116878:3709"
                 ]
             ]
-        },
-        "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
         }
     },
     "model": {
@@ -231,6 +231,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1595252554627439:155781",
+                    "name": "Files\/File29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -247,7 +255,22 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1595252574565304:158920",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -261,12 +284,15 @@
                 "4": "1595184220504042:2828",
                 "5": "1595184226116537:3708",
                 "6": "1595184226116878:3709",
-                "7": "1595184226119806:3729"
+                "7": "1595184226119806:3729",
+                "8": "1595252574525976:158711",
+                "9": "1595252574542632:158784",
+                "10": "1595252574564979:158919"
             }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -371,6 +397,10 @@
                 {
                     "k": "28",
                     "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
                 }
             ]
         },
@@ -422,6 +452,10 @@
                     {
                         "k": "978",
                         "v": "IconSource.png"
+                    },
+                    {
+                        "k": "979",
+                        "v": "CreditAlpha.js"
                     }
                 ],
                 "hashes": [
@@ -472,14 +506,30 @@
                     {
                         "k": "978",
                         "v": "c5ba1a33d70bd407e06a6a9b9a5aa18b"
+                    },
+                    {
+                        "k": "979",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
+                    },
+                    {
+                        "k": "980",
+                        "v": "c46f191c70cf06e3fd1579524be1c185"
+                    },
+                    {
+                        "k": "981",
+                        "v": "d3ffbd3144a880f5c980be6dae0f4110"
+                    },
+                    {
+                        "k": "982",
+                        "v": "d50d88a36b661417b0089c16b097da41"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-20T06:38:01",
+                        "lastModified": "2020-07-20T20:37:18",
                         "name": "Public",
-                        "hash": "284b5d63d4bdd81b77549d7c374c7871",
+                        "hash": "f0cbb447775d6429f3ce48cf8643d44f",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -523,6 +573,13 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-20T06:42:46",
+                                "name": "CreditAlpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
+                                "children": ""
                             },
                             {
                                 "isFolder": "false",
@@ -846,19 +903,27 @@
                         "publicId": "978",
                         "source": "\/Users\/ejwessel\/Downloads\/AKUAKU.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "CreditAlpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1595252554627439:155781",
+                        "fileId": "29",
+                        "originalId": "18446744073709551615",
+                        "publicId": "979",
+                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-ymJanw\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1595252246644690:116855",
-                        "path_list": [
-                            "AKUAKU"
-                        ]
-                    }
+                "objects": [
+                    "1595252574564979:158919"
                 ]
             }
         },
